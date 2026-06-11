@@ -44,7 +44,7 @@ This repository is the official implementation of PermaVid
 
 ## 📧 Contact Us
 Shuai Yang: [yang_shuai@sjtu.edu.cn](mailto:yang_shuai@sjtu.edu.cn)  
-Bingjie Gao: [tj023@ie.cuhk.edu.hk](mailto:whynothaha@sjtu.edu.cn)  
+Bingjie Gao: [whynothaha@sjtu.edu.cn](mailto:whynothaha@sjtu.edu.cn)  
 
 ## ✒️ Citation
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
