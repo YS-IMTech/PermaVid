@@ -32,7 +32,7 @@ This repository is the official implementation of PermaVid
 
 
 
-![](assets/layerpano3d.png)
+![](assets/teaser.jpg)
 
 ### ✨ TODO:
 🔥 We will release the code and models soon!
