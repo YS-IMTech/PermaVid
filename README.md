@@ -5,7 +5,7 @@ This repository is the official implementation of PermaVid
 
 [**Project page**](https://ys-imtech.github.io/projects/PermaVid/) | [**Paper**](https://arxiv.org/abs/2408.13252) | [**Dataset**](https://huggingface.co/datasets/ysmikey/PermaVid_datasets) 
 
-![](assets/teaser.jpeg)
+![](assets/teaser.jpg)
 
 </br>
 
@@ -15,6 +15,9 @@ This repository is the official implementation of PermaVid
 [Jiaqi Wang](https://myownskyw7.github.io/), 
 [Dahua Lin](http://dahua.me/),
 [Tong Wu](https://wutong16.github.io/),
+
+
+
 
 <p style="font-size: 0.6em; margin-top: -1em">*Equal Contribution</p>
 
@@ -32,7 +35,6 @@ This repository is the official implementation of PermaVid
 
 
 
-![](assets/teaser.jpg)
 
 ### ✨ TODO:
 🔥 We will release the code and models soon!
