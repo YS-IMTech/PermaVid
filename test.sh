@@ -1,0 +1,8 @@
+#!/bin/bash
+
+INPUT_VIDEO="/mnt/public/users/yangshuai/code/CausalWorld/results_sig26_exp_seed_batch_pipeline/Qualitative_14B_teaserglobal_Change_to_Makoto_Shinkai_style_vibrant_colors_dramatic_sky_cinematic_atmosphere_detailed_background_anime_aesthetic_seed5371/test_14/Final.mp4"
+OUTPUT_DIR="/mnt/public/users/yangshuai/code/CausalWorld/results_sig26_exp_seed_batch_pipeline/Qualitative_14B_teaserglobal_Change_to_Makoto_Shinkai_style_vibrant_colors_dramatic_sky_cinematic_atmosphere_detailed_background_anime_aesthetic_seed5371/test_14/Final"
+
+mkdir -p "$OUTPUT_DIR"
+
+ffmpeg -i "$INPUT_VIDEO" -start_number 0 -pix_fmt rgb24 -compression_level 0 "$OUTPUT_DIR/frame_%d.png"

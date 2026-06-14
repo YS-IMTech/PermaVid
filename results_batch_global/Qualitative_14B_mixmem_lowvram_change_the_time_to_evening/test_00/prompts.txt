@@ -1,0 +1,3 @@
+initial caption prompt:A sunlit, rustic kitchen with wooden furniture, clay pots, and a view of cherry blossoms outside the window.
+edited_index-0 interactive prompts:change the time to evening
+updated caption prompt:A dimly lit, rustic kitchen bathed in soft light from a window showing a blossoming tree, with wooden furniture, pots, and shelves filled with pottery.
