@@ -1,0 +1,3 @@
+initial caption prompt:A serene waterfront scene in Istanbul at sunset, featuring a wooden bench overlooking the water, seagulls in flight, traditional wooden houses, and iconic mosques with minarets in the background.
+edited_index-0 interactive prompts:add a red cushion to the bench
+updated caption prompt:A serene waterfront scene with wooden houses, a red-cushioned bench, and seagulls flying over the water, set against the backdrop of iconic Istanbul mosques at sunset.

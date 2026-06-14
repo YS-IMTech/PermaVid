@@ -1,0 +1,3 @@
+initial caption prompt:A serene modern concrete courtyard with minimalist architecture, raked gravel, moss, and rocks, bathed in soft morning or evening light.
+edited_index-0 interactive prompts:change the time to evening
+updated caption prompt:A modern concrete building glows warmly at dusk, its illuminated windows contrasting with the deep blue sky and dark, textured walls.

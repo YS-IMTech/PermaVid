@@ -1,0 +1,33 @@
+# NOTE:
+# This file is tailored for the existing `causalworld` conda env on your machine.
+# I intentionally do NOT include `torch/torchvision` pins here to avoid CUDA wheel
+# resolution issues during `pip install -r`.
+#
+# Current env versions (for reference):
+# torch==2.7.0+cu126
+# torchvision==0.22.0+cu128
+
+transformers==4.57.1
+diffusers==0.35.2
+huggingface-hub==0.36.0
+
+numpy==2.2.6
+pillow==11.3.0
+decord==0.6.0
+
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
+
+einops==0.8.1
+safetensors==0.6.2
+sentencepiece==0.2.1
+protobuf==6.33.0
+
+modelscope==1.31.0
+ftfy==6.3.1
+pynvml==13.0.1
+pandas==2.3.3
+accelerate==1.11.0
+peft==0.17.1
+
+opencv-python==4.12.0.88

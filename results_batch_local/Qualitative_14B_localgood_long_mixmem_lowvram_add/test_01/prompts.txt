@@ -1,0 +1,3 @@
+initial caption prompt:A serene, sunlit Japanese tatami room with shoji screens, a view of a garden, and traditional decor.
+edited_index-0 interactive prompts:add a small cushion on the tatami mat
+updated caption prompt:A serene Japanese tatami room bathed in warm sunlight streaming through shoji screens, with a low cushion and traditional decor creating a tranquil atmosphere.

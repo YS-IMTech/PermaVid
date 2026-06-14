@@ -1,0 +1,3 @@
+initial caption prompt:A serene modern concrete architectural complex features a central pathway flanked by minimalist rock gardens and raked gravel, evoking a tranquil Zen courtyard.
+edited_index-0 interactive prompts:add a small bench near the central pathway
+updated caption prompt:A serene, minimalist courtyard with concrete buildings, a central bench, and carefully placed rocks and moss under soft morning light.

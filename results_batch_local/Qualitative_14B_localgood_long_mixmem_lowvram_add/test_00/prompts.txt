@@ -1,0 +1,3 @@
+initial caption prompt:A rustic, sunlit kitchen with wooden furniture, clay pots, and a view of blooming cherry trees outside the window.
+edited_index-0 interactive prompts:add a small plant in the center of the table
+updated caption prompt:A warm, rustic kitchen bathed in sunlight streaming through windows showing blooming cherry trees, centered around a wooden table with a potted plant.

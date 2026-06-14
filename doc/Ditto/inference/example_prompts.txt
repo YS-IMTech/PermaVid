@@ -1,0 +1,38 @@
+Here are some example prompts for simple testing:
+Turn it into the real domain. (This is for Sim2Real)
+Make the scene in fire.
+Make it Steampunk style (mechanical with gears, pipes and brass details).
+Make it a Japanese anime style, cel shading video.
+Make it a pencil sketch style video.
+Make it a Pixel Art video. 
+Make it a Claymation.
+Make it a Ukiyo-e style video.
+Make it a Renaissance art style video.
+Make it a drawing by Van Gogh. 
+Make it Cyberpunk style. (implants, futuristic).
+Make it watercolor drawing style. 
+Make it Comic Book Style. 
+Make it Children's Book Illustration.
+Make it a Charcoal Drawing.
+Make it Rick and Morty style. 
+Make it Spirited Away style.
+Make it Moe style anime. 
+Make it Pixar style. 
+Make it Golden Age Warner/Disney style.
+Make it My Little Pony style.
+Make it sculptured with bronze.
+Make it sculptured with ranbow candy and biscuits.
+Make it sculptured with tasty and delicious chocolate.
+Make it sculptured with silver.
+Make it sculptured with gold.
+Make it sculptured with rusted iron.
+Make it sculptured with glass.
+Make it sculptured with bricks.
+Make it sculptured with ice.
+Make it sculptured with slime.
+Turn it into the 3D Chibi style.
+Turn it into the Fabric style.
+Turn it into the Ghibli style.
+Turn it into the Jojo style.
+Turn it into the LEGO style.
+Turn it into the Paper Cutting style.
