@@ -1,9 +1,7 @@
 # PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
 This repository is the official implementation of PermaVid
 
-
-
-[**Project page**](https://ys-imtech.github.io/projects/PermaVid/) | [**Paper**](https://arxiv.org/abs/2408.13252) | [**Dataset**](https://huggingface.co/datasets/ysmikey/PermaVid_datasets) 
+[**Project page**](https://ys-imtech.github.io/projects/PermaVid/) | [**Paper**](https://arxiv.org/abs/2606.16449) | [**Dataset**](https://huggingface.co/datasets/ysmikey/PermaVid_datasets) 
 
 ![](assets/teaser.jpg)
 
