@@ -22,7 +22,7 @@ This repository is the official implementation of PermaVid
 
 
 <p align="center">
-<a href="https://arxiv.org/abs/2408.13252"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2606.16449"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://ys-imtech.github.io/projects/PermaVid/"><img src="https://img.shields.io/badge/Project-Website-red"></a>
 <a href="https://huggingface.co/datasets/ysmikey/PermaVid_datasets"><img src="https://img.shields.io/badge/Dataset-Huggingface-yellow"></a>
 <a href="https://www.youtube.com/watch?v=DQHfI6btVRk"><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange"></a>
