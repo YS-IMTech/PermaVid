@@ -1,3 +1,0 @@
-initial caption prompt:A serene waterfront scene in Istanbul features a wooden bench overlooking the water, with seagulls flying and historic mosques with minarets visible in the background at sunset.
-edited_index-0 interactive prompts:change the time to evening
-updated caption prompt:A lone bird soars over an empty, cobblestone courtyard at twilight, with historic buildings and minarets silhouetted against a dusky sky.
