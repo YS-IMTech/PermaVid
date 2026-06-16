@@ -206,11 +206,14 @@ Bingjie Gao: [whynothaha@sjtu.edu.cn](mailto:whynothaha@sjtu.edu.cn)
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```bibtex
-@article{yang2026permavid,
-  title={PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory},
-  author={Yang, Shuai and Gao, Bingjie and Liu, Ziwei and Wang, Jiaqi and Lin, Dahua and Wu, Tong},
-  journal={arXiv preprint arXiv:26xx.xxxxx},
-  year={2026}
+@misc{yang2026permavid,
+      title={PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory}, 
+      author={Shuai Yang and Bingjie Gao and Ziwei Liu and Jiaqi Wang and Dahua Lin and Tong Wu},
+      year={2026},
+      eprint={2606.16449},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.16449}, 
 }
 ```
 
