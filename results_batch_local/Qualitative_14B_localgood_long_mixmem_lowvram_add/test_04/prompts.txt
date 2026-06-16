@@ -1,3 +1,0 @@
-initial caption prompt:A serene Japanese room with tatami mats and paper lanterns overlooks a rainy, traditional alleyway, inviting quiet contemplation.
-edited_index-0 interactive prompts:add a small stone statue to the stone path just outside the doorway
-updated caption prompt:A serene Japanese room with tatami mats and paper lanterns overlooks a rainy, lantern-lit alleyway featuring a small statue.
