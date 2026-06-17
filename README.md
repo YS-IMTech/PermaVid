@@ -36,8 +36,8 @@ This repository is the official implementation of PermaVid
 ### 1. Create a Conda Virtual Environment
 
 ```bash
-conda create -n prismworld python=3.10 -y
-conda activate prismworld
+conda create -n permavid python=3.10 -y
+conda activate permavid
 ```
 
 ### 2. Install PyTorch (CUDA 12.6)
@@ -51,7 +51,6 @@ pip install torch==2.7.0 torchvision==0.22.0 --index-url https://download.pytorc
 ### 3. Install Project Dependencies
 
 ```bash
-cd /path/to/prismworld
 pip install -U pip
 pip install -r requirements.txt
 ```
@@ -66,7 +65,6 @@ pip install qwen-vl-utils
 ### 5. Install the Project in Development Mode
 
 ```bash
-cd /path/to/prismworld
 pip install setuptools
 pip install -e .
 ```
@@ -89,7 +87,6 @@ huggingface-cli download Qwen/Qwen3-VL-8B-Instruct --local-dir /your/model/Qwen/
 ### Training Script
 
 ```bash
-cd /path/to/prismworld
 bash training/train_multi_14b_uemem_mix.sh
 ```
 
@@ -189,11 +186,6 @@ bash inference/run_eval_qualitative_batchedit_local_lowvram.sh
 ---
 
 
-
-
-
-### ✨ TODO:
-🔥 We will release the code and models soon!
 
 
 
