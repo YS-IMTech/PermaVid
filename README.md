@@ -75,7 +75,7 @@ pip install -e .
 
 ```bash
 huggingface-cli download Wan-AI/Wan2.1-VACE-14B --local-dir /your/model/Wan2.1-VACE-14B --resume-download
-huggingface-cli download ysmikey/prismworld_ckpt_backup   --local-dir /your/model/prismworld --resume-download
+huggingface-cli download ysmikey/Permavid_ckpt   --local-dir /your/model/Permavid_ckpt --resume-download
 huggingface-cli download Qwen/Qwen-Image-Edit --local-dir /your/model/Qwen/Qwen-Image-Edit --resume-download
 huggingface-cli download Qwen/Qwen3-VL-8B-Instruct --local-dir /your/model/Qwen/Qwen3-VL-8B-Instruct --resume-download
 ```
